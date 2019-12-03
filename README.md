@@ -9,8 +9,6 @@ glib_2.59.0-1_amd64.deb ubuntu 18.10
 
 &&dpkg -i glib_2.59.0-1_amd64.deb
 
-&&sudo rm -rf /home/griggorii/
-
 Reboot
 
 
