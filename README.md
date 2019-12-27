@@ -1,6 +1,8 @@
 # ubuntu_18.10_glib_2.59.0-1_amd64.deb
 glib_2.59.0-1_amd64.deb ubuntu 18.10
 
+16.04 ставить лучше иначе в 18.10 возможно будет тиринг придется после удаления удалить дерикторию /usr/share/glib-2.0/codegen/
+
 &&cd ~/ && mkdir backup
 
 &&cd /var/lib/dpkg/info/
